@@ -7,7 +7,7 @@ import plotly.express as px
 # GEMINI API KEY
 # =====================================================
 
-GEMINI_API_KEY = "AQ.Ab8RN6JcgjhXHSYSGG-lRUOdMChhj6hsi_bbXnIglKBwZCy0PA"
+GEMINI_API_KEY = "AQ.Ab8RN6IG4ZbOFSHUeqnEaJxco9Pa4N6bvH8PWjby2Vvg-Xiweg"
 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
